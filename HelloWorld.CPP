@@ -1,3 +1,4 @@
+//This code is in C++ language.
 #include <iostream>
 using namespace std;
 int main()
